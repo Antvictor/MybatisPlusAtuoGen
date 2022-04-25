@@ -1,0 +1,2 @@
+# MybatisPlusAtuoGen
+MyBatisPlus自动生成，支持JSON转Map、List操作
